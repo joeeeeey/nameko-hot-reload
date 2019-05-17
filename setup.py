@@ -15,8 +15,8 @@ with open('requirements.txt') as f:
 
 setup(
     name='nameko-hot-reload',
-    version='0.1.2.dev1',
-    packages=find_packages('src', exclude=('tests',)),
+    version='0.2-dev',
+    packages=find_packages('src'),
     package_dir={'': 'src'},
     include_package_data=True,
     zip_safe=False,
