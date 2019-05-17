@@ -1,6 +1,6 @@
 # nameko-hot-reload
 
-Hot reload for nameko.
+Hot reload for nameko services. Inspired by [nameko_extras](https://github.com/Babylonpartners/nameko-extras)
 
 
 ### Installation
